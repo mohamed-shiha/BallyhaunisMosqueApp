@@ -17,21 +17,21 @@ jobs:
 
     - name: Publish .NET Core Project
       run: dotnet publish BlazorMosque.Client/BlazorMosque.Client.csproj -c Release -o release --nologo
-      
+
     - name: List contents of release directory
       run: |
         echo "Contents of release directory:"
         ls -R release
-        
+
     - name: Change base-tag in index.html
-      run: sed -i 's/<base href="\/" \/>/<base href="\/BlazorMosque\/" \/>/g' release/wwwroot/index.html
+      run: sed -i 's/<base href="\/" \/>/<base href="\/BlazorMosque\/" \/>/g' release/index.html
 
     - name: Add .nojekyll file
-      run: touch release/wwwroot/.nojekyll
+      run: touch release/.nojekyll
 
     - name: Commit wwwroot to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH: gh-pages
-        FOLDER: release/wwwroot
+        FOLDER: release
