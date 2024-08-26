@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "e7uTAulHqooesTi3LQh72Nr+ukfxjk4hHVJ+3VXNMA8=",
+  "Hash": "fuu7xT/+JrIVZMor7AvqC85Ps3zY7lWCZU57i7ocEA0=",
   "Source": "BlazorMosque",
   "BasePath": "_content/BlazorMosque",
   "Mode": "Default",
@@ -8185,25 +8185,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\appsettings.json"
-    },
-    {
-      "Identity": "D:\\Projects\\BlazorMosque\\BlazorMosque.Client\\wwwroot\\Data\\TimeTable.json",
-      "SourceId": "BlazorMosque.Client",
-      "SourceType": "Project",
-      "ContentRoot": "D:\\Projects\\BlazorMosque\\BlazorMosque.Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "Data/TimeTable.json",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Data\\TimeTable.json"
     },
     {
       "Identity": "D:\\Projects\\BlazorMosque\\BlazorMosque\\obj\\Release\\net8.0\\scopedcss\\bundle\\BlazorMosque.styles.css",

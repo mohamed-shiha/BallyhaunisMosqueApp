@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorMosque.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cf7ea253d70dd1c16d2d957a007bd6f1024744b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorMosque.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorMosque.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

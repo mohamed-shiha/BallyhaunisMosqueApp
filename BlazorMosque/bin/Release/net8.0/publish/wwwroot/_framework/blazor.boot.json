@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazorMosque.Client",
   "resources": {
-    "hash": "sha256-RZAz2aM5CoXbewhJ1TgblanfTnNMtRc1HbZd8Uz61cU=",
+    "hash": "sha256-jHQ4eiWcS5VKl8Z2R7TxLr2JF/Aj5gdKtq51S998wFw=",
     "jsModuleNative": {
       "dotnet.native.8.0.7.gaa7ra5v0g.js": "sha256-tFsxPBbhkdn6GKNBKvCRLzrfAHdyM86odYTe0MtrwMk="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "BlazorMosque.Client.wasm": "sha256-VEQhvG0Srfd8W9KGgDQ0ZL+VoqspOO6wa9CdTQCsZL4=",
+      "BlazorMosque.Client.wasm": "sha256-+Crai1dhoW5yxO/+Mv5YnHkeNCVoNE6CQz0L/GLNCjI=",
       "Microsoft.AspNetCore.Authorization.wasm": "sha256-nTb/S5NHtYLkQ6GWnpg9oEmwcV5wvmHP7YeyDmXq+lA=",
       "Microsoft.AspNetCore.Components.Authorization.wasm": "sha256-cY0EyMcm91LnIgUbU9AUEPwIVHH51A85F10RODXwTZ4=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-un0mWHcNYsRjdRZz/RwoEXZ36QV3diPGsr1753foDzQ=",

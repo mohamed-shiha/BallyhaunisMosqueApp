@@ -13,10 +13,6 @@
       "PackagePath": "staticwebassets\\BlazorMosque.Client.bundle.scp.css"
     },
     {
-      "Id": "D:\\Projects\\BlazorMosque\\BlazorMosque.Client\\wwwroot\\Data\\TimeTable.json",
-      "PackagePath": "staticwebassets\\Data\\TimeTable.json"
-    },
-    {
       "Id": "D:\\Projects\\BlazorMosque\\BlazorMosque.Client\\wwwroot\\appsettings.Development.json",
       "PackagePath": "staticwebassets\\appsettings.Development.json"
     },

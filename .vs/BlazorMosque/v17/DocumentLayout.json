@@ -1,88 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Projects\\BlazorMosque\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{820AF9FD-30F6-417C-98BD-F4EFA97161BB}|BlazorMosque.Client\\BlazorMosque.Client.csproj|d:\\projects\\blazormosque\\blazormosque.client\\pages\\prayertimes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{820AF9FD-30F6-417C-98BD-F4EFA97161BB}|BlazorMosque.Client\\BlazorMosque.Client.csproj|solutionrelative:blazormosque.client\\pages\\prayertimes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{820AF9FD-30F6-417C-98BD-F4EFA97161BB}|BlazorMosque.Client\\BlazorMosque.Client.csproj|d:\\projects\\blazormosque\\blazormosque.client\\services\\prayertime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{820AF9FD-30F6-417C-98BD-F4EFA97161BB}|BlazorMosque.Client\\BlazorMosque.Client.csproj|solutionrelative:blazormosque.client\\services\\prayertime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{820AF9FD-30F6-417C-98BD-F4EFA97161BB}|BlazorMosque.Client\\BlazorMosque.Client.csproj|d:\\projects\\blazormosque\\blazormosque.client\\services\\prayertimesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{820AF9FD-30F6-417C-98BD-F4EFA97161BB}|BlazorMosque.Client\\BlazorMosque.Client.csproj|solutionrelative:blazormosque.client\\services\\prayertimesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{820AF9FD-30F6-417C-98BD-F4EFA97161BB}|BlazorMosque.Client\\BlazorMosque.Client.csproj|d:\\projects\\blazormosque\\blazormosque.client\\components\\countdown.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{820AF9FD-30F6-417C-98BD-F4EFA97161BB}|BlazorMosque.Client\\BlazorMosque.Client.csproj|solutionrelative:blazormosque.client\\components\\countdown.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PrayerTime.cs",
-              "DocumentMoniker": "D:\\Projects\\BlazorMosque\\BlazorMosque.Client\\Services\\PrayerTime.cs",
-              "RelativeDocumentMoniker": "BlazorMosque.Client\\Services\\PrayerTime.cs",
-              "ToolTip": "D:\\Projects\\BlazorMosque\\BlazorMosque.Client\\Services\\PrayerTime.cs",
-              "RelativeToolTip": "BlazorMosque.Client\\Services\\PrayerTime.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T09:39:59.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PrayerTimesService.cs",
-              "DocumentMoniker": "D:\\Projects\\BlazorMosque\\BlazorMosque.Client\\Services\\PrayerTimesService.cs",
-              "RelativeDocumentMoniker": "BlazorMosque.Client\\Services\\PrayerTimesService.cs",
-              "ToolTip": "D:\\Projects\\BlazorMosque\\BlazorMosque.Client\\Services\\PrayerTimesService.cs",
-              "RelativeToolTip": "BlazorMosque.Client\\Services\\PrayerTimesService.cs",
-              "ViewState": "AQIAAHgAAAAAAAAAAIAwwJ8AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T09:33:38.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CountDown.razor",
-              "DocumentMoniker": "D:\\Projects\\BlazorMosque\\BlazorMosque.Client\\Components\\CountDown.razor",
-              "RelativeDocumentMoniker": "BlazorMosque.Client\\Components\\CountDown.razor",
-              "ToolTip": "D:\\Projects\\BlazorMosque\\BlazorMosque.Client\\Components\\CountDown.razor",
-              "RelativeToolTip": "BlazorMosque.Client\\Components\\CountDown.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-25T22:22:20.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PrayerTimes.razor",
-              "DocumentMoniker": "D:\\Projects\\BlazorMosque\\BlazorMosque.Client\\Pages\\PrayerTimes.razor",
-              "RelativeDocumentMoniker": "BlazorMosque.Client\\Pages\\PrayerTimes.razor",
-              "ToolTip": "D:\\Projects\\BlazorMosque\\BlazorMosque.Client\\Pages\\PrayerTimes.razor",
-              "RelativeToolTip": "BlazorMosque.Client\\Pages\\PrayerTimes.razor",
-              "ViewState": "AQIAAJAAAAAAAAAAAAAAAJwAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T16:16:00.986Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
