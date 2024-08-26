@@ -17,7 +17,12 @@ jobs:
 
     - name: Publish .NET Core Project
       run: dotnet publish BlazorMosque.Client/BlazorMosque.Client.csproj -c Release -o release --nologo
-
+      
+    - name: List contents of release directory
+      run: |
+        echo "Contents of release directory:"
+        ls -R release
+        
     - name: Change base-tag in index.html
       run: sed -i 's/<base href="\/" \/>/<base href="\/BlazorMosque\/" \/>/g' release/wwwroot/index.html
 
